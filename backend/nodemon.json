@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_HOST": "crashdatabase.cthdjnefrpen.us-east-2.rds.amazonaws.com",
+        "DB_USER": "rajeev",
+        "DB_PASS": "Hyderabad405",
+        "DB_NAME": "crashdatabase",
+        "PORT": "5000"
+    }
+}
