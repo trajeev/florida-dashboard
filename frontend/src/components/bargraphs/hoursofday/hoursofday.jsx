@@ -1,7 +1,7 @@
 import React, { useEffect, useState} from 'react';
 import './hoursofday.css'
 import axios from 'axios'
-import BarChart from '../chart/chart'
+import BarChart from './chart/chart'
 
 // This component is used to display Crashes in 24 hours
 const HoursOfDay = () => {
